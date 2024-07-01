@@ -42,8 +42,6 @@ h2 {
   flex-direction:column;
   justify-content: center;
   padding: 10px;
-  border-style: outset;
-  border-color: black;
   position: relative;
   margin: 15px;
   width: 100%;
