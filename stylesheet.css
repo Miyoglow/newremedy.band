@@ -9,6 +9,9 @@ body {
 
 h2 {
   font-family: sans;
+  font-size: 50px;
+  font-style: italic;
+  letter-spacing: 0.085em;
   margin: 0;
   color: black;
 }
@@ -21,9 +24,14 @@ h2 {
 .containerbox {
   display: flex;
   width: 100%;
-  max-width: 700px;
   overflow:hidden;
   overflow-x:auto;
+}
+
+@media (max-width: 700px) {
+  .containerbox {
+    max-width: 700px;
+  }
 }
 
 .styledbox {
