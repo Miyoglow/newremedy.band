@@ -1,5 +1,6 @@
 body {
   font-family: "Roboto Mono", monospaced;
+  font-weight: 300;
   margin: 0;
   display: flex;
   flex-direction: column;
