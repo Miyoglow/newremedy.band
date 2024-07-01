@@ -1,6 +1,7 @@
 body {
   font-family: "Roboto Mono", monospaced;
   font-weight: 300;
+  line-height: 2em;
   margin: 0;
   display: flex;
   flex-direction: column;
@@ -9,7 +10,7 @@ body {
 
 h2 {
   font-family: sans;
-  font-size: 45px;
+  font-size: 40px;
   font-style: italic;
   letter-spacing: 0.085em;
   margin: 0;
