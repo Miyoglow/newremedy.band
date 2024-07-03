@@ -32,6 +32,10 @@ body {
 	flex: 1;
 }
 
+.middlebox > .styledbox {
+	text-align: left;
+}
+
 .bgaccen {
 	color: black;
 	height: 100%;
